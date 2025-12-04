@@ -1,10 +1,6 @@
 # DoorHinge 🏠
 
 A modern, full-stack Hinge-like app for house rentals. Seekers swipe through properties, Owners list their rentals, and when they mutually like each other, they can chat in real-time.
-
-**Live Demo**: [Coming Soon]  
-**GitHub**: [Your GitHub Link]
-
 ---
 
 ## 🎯 Features
@@ -520,19 +516,6 @@ MIT License - see LICENSE file for details
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**  
-Full-Stack Developer | MAANG Interview Ready
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-
----
-
-## 🎓 Interview Preparation
-
 This project demonstrates:
 
 ✅ **System Design**: Architecture of rental matching platform
@@ -544,30 +527,4 @@ This project demonstrates:
 ✅ **Database**: SQL modeling, relationships, indexing
 ✅ **Code Quality**: TypeScript, error handling, logging
 
-### Talking Points in Interview
-
-1. "How does the authentication flow work?"
-   → Explain JWT, refresh tokens, HTTP-only cookies
-
-2. "Walk us through the matching algorithm"
-   → Like → Like back → Match created → Can chat
-
-3. "How did you handle real-time updates?"
-   → Socket.IO (implemented as stub, ready for expansion)
-
-4. "What security measures did you implement?"
-   → Bcrypt, rate limiting, input validation, HTTPS ready
-
-5. "How would you scale this?"
-   → Redis for caching/rate limit, read replicas, CDN for media
-
 ---
-
-## 📞 Support
-
-- Issues: [GitHub Issues](https://github.com/yourusername/doorhinge/issues)
-- Discussions: [GitHub Discussions](https://github.com/yourusername/doorhinge/discussions)
-
----
-
-**Built with ❤️ for full-stack learning and MAANG interviews**
